@@ -1,0 +1,5 @@
+requests
+python-dotenv
+tweepy
+pandas
+google-cloud-storage
